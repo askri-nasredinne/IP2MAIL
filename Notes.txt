@@ -1,0 +1,1 @@
+The IDea of this application is come to diffuse IP Camera Over the Web.
